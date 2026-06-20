@@ -8,7 +8,6 @@ I completed 153 practice exercises covering:
 
 * Functions
 * Functional Programming
-
   * Lambda
   * Map
   * Filter
