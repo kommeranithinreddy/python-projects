@@ -30,4 +30,4 @@ I currently work as an L1 Support Analyst and am transitioning toward Python Dev
 - collections/
 - functions/
 - mini-projects/
->>>>>>> dfb818f91fbc6a196065867a4dcf70e2f858a83d
+
