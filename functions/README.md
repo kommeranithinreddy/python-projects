@@ -4,7 +4,7 @@ This repository contains my Python functions practice work and mini projects com
 
 ## Overview
 
-I completed approximately 150 practice exercises covering:
+I completed 153 practice exercises covering:
 
 * Functions
 * Functional Programming
@@ -140,3 +140,13 @@ Through these exercises I developed:
 * Functional programming concepts
 * Code organization and modular design
 * Practical application development skills
+
+## Progress
+
+This repository represents my completed Functions phase of Python learning before moving to:
+
+- Exception Handling
+- File Handling
+- Object-Oriented Programming (OOP)
+- Data Analysis
+- Data Science
