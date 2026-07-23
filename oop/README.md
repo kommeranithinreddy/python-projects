@@ -1,6 +1,6 @@
 # Object-Oriented Programming (OOP) in Python
 
-This folder contains my hands-on practice notebooks for learning Object-Oriented Programming (OOP) concepts in Python.
+This folder contains my hands-on practice notebooks for learning and applying the core concepts of Object-Oriented Programming (OOP) in Python.
 
 ## Topics Covered
 
@@ -18,7 +18,7 @@ This folder contains my hands-on practice notebooks for learning Object-Oriented
 
 ## Repository Structure
 
-```
+```text
 oop/
 ├── 01_classes_and_objects.ipynb
 ├── 02_constructor.ipynb
@@ -35,6 +35,22 @@ oop/
 
 ## About
 
-These notebooks contain more than 100 practice problems that I solved while learning OOP in Python. The focus is on understanding each concept through implementation rather than theory alone.
+This folder contains **110+ hands-on practice problems** covering the core concepts of Object-Oriented Programming in Python.
 
-The notebooks are organized in the order I learned the concepts, making them suitable as a structured reference for Python OOP fundamentals.
+The notebooks are organized in the order I learned each concept, progressing from the fundamentals of classes and objects to advanced topics such as inheritance, polymorphism, composition, and magic methods.
+
+The primary goal of this collection is to strengthen problem-solving skills and build a solid foundation in Python OOP through practical implementation.
+
+## Status
+
+- ✅ Classes and Objects
+- ✅ Constructors
+- ✅ Attributes and Methods
+- ✅ Instance Variables vs Class Variables
+- ✅ Instance, Class, and Static Methods
+- ✅ Encapsulation
+- ✅ Abstraction
+- ✅ Inheritance
+- ✅ Polymorphism
+- ✅ Composition and Aggregation
+- ✅ Magic Methods
